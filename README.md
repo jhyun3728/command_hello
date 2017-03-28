@@ -1,1 +1,1 @@
-remote repository add a README.md
+remot repository of git_tutorial
